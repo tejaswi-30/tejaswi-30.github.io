@@ -6,12 +6,12 @@
 
 **College Name:**Sri Vasavi Engineering College
 
-##Skills:
+## Skills:
 
 
 
 - C Programing
--Version Control System (Git & GitHub)
+- Version Control System (Git & GitHub)
 
 ## Certifications:
--Attended 2 days trainging program on Source Code Management using Git & GitHub conducted by APSSDC at my College 
+- Attended 2 days trainging program on Source Code Management using Git & GitHub conducted by APSSDC at my College 
